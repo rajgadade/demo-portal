@@ -1221,47 +1221,47 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@bentley/bentleyjs-core@2.19.3", "@bentley/bentleyjs-core@^2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/bentleyjs-core/-/bentleyjs-core-2.19.3.tgz#9f3beb188d7f13e5d36b31c2fd8b0423b2d35bb0"
-  integrity sha512-isvnOK6rN2Ue0GE1UjLYtRwFb82kST4MmqKeBZqLx+UJNoH4sQGP+DXUhyUnygR7i2spQYG4z+epV797nQRR3w==
+"@bentley/bentleyjs-core@2.19.6", "@bentley/bentleyjs-core@^2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/bentleyjs-core/-/bentleyjs-core-2.19.6.tgz#10f8295dd31212cbcea5d67257b4e7a2935399e1"
+  integrity sha1-EPgpXdMSEsvOpdZyV7TnopNTmeE=
 
-"@bentley/context-registry-client@2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/context-registry-client/-/context-registry-client-2.19.3.tgz#464e3b746862b16d84ddb1646b31c53d51e7a3be"
-  integrity sha512-Z9CccOG3IXYL5xTpVbZdO85s1o4fp62ar6myOX9laj4SrddtjFvkZL3QqrPqTGPsljA0HUY8W5GD8mWmReGxYQ==
+"@bentley/context-registry-client@2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/context-registry-client/-/context-registry-client-2.19.6.tgz#6d1d1df0e705b6b89303b99c80660b4adace74a4"
+  integrity sha1-bR0d8OcFtriTA7mcgGYLStrOdKQ=
   dependencies:
     deep-assign "^2.0.0"
 
-"@bentley/extension-client@2.19.3", "@bentley/extension-client@^2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/extension-client/-/extension-client-2.19.3.tgz#589dc5296d5d10018543bbb316f21466f53a8a3a"
-  integrity sha512-KaNvG2fJ/XS3uQVerDmZl4tTk+u1AolbgT+9H35UwZfJRjehsZ+ZB7wcGGR4UR+jo3tc6bW+ZmX8hQJRIx6Ljw==
+"@bentley/extension-client@2.19.6", "@bentley/extension-client@^2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/extension-client/-/extension-client-2.19.6.tgz#c40e35a582425b7c63e1e75636dfa91a79d025d2"
+  integrity sha1-xA41pYJCW3xj4edWNt+pGnnQJdI=
   dependencies:
-    "@bentley/bentleyjs-core" "2.19.3"
-    "@bentley/imodeljs-common" "2.19.3"
-    "@bentley/itwin-client" "2.19.3"
+    "@bentley/bentleyjs-core" "2.19.6"
+    "@bentley/imodeljs-common" "2.19.6"
+    "@bentley/itwin-client" "2.19.6"
 
-"@bentley/frontend-application-insights-client@^2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/frontend-application-insights-client/-/frontend-application-insights-client-2.19.3.tgz#39615c679d4621a9b4323aa9afedf5c1334d82cc"
-  integrity sha512-fNQEGpVkBw2vuAPBjBYM+JG7U4nsb7hmX0MkS/DR9/5vmMv8NpLPKeSrR564XTOUZTcX4P6JmjMgoIrIbXU1oA==
+"@bentley/frontend-application-insights-client@^2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/frontend-application-insights-client/-/frontend-application-insights-client-2.19.6.tgz#3aa594576e9e42abd733992a199f2b3336477c2c"
+  integrity sha1-OqWUV26eQqvXM5kqGZ8rMzZHfCw=
   dependencies:
-    "@bentley/bentleyjs-core" "2.19.3"
-    "@bentley/telemetry-client" "2.19.3"
+    "@bentley/bentleyjs-core" "2.19.6"
+    "@bentley/telemetry-client" "2.19.6"
     "@microsoft/applicationinsights-web" "^2.5.5"
 
-"@bentley/frontend-authorization-client@^2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/frontend-authorization-client/-/frontend-authorization-client-2.19.3.tgz#ba5f4688a07aec6ee33d5d5c42ae7fbd38d69555"
-  integrity sha512-ENVGTFieQ7NkDpkWCj3V5qNM/glFt1YOD3k1qWV4xG8b/G70lY0YpACwwRITAGnozgi6u2tb6R7HKJhT683biQ==
+"@bentley/frontend-authorization-client@^2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/frontend-authorization-client/-/frontend-authorization-client-2.19.6.tgz#8a7a3a26a8887e9245bbd7519060858416b59a48"
+  integrity sha1-ino6JqiIfpJFu9dRkGCFhBa1mkg=
   dependencies:
     oidc-client "^1.9.1"
 
-"@bentley/geometry-core@^2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/geometry-core/-/geometry-core-2.19.3.tgz#e77bb4d87247ae8d2dd90740a3c18c08871ef1f0"
-  integrity sha512-WBJ8oOfnGMeUmemw9km5IIaM+Bo3M37rdPIhxBmgnRlC3SoECn01ILK5KR8PeUXIGV0WPNcJlrff6VnAunql+A==
+"@bentley/geometry-core@^2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/geometry-core/-/geometry-core-2.19.6.tgz#9c86b3eb66fb7ab0bd0d3086c9395a9945848246"
+  integrity sha1-nIaz62b7erC9DTCGyTlamUWEgkY=
   dependencies:
     flatbuffers "~1.12.0"
 
@@ -1275,33 +1275,33 @@
   resolved "https://registry.yarnpkg.com/@bentley/icons-generic/-/icons-generic-1.0.34.tgz#0f988de1fc89c5296572d2f4cd1ae40ee918c9f4"
   integrity sha512-IIs1wDcY2oZ8tJ3EZRw0U51M+0ZL3MvwoDYYmhUXaa9/UZqpFoOyLBGaxjirQteWXqTIMm3mFvmC+Nbn1ok4Iw==
 
-"@bentley/imodelhub-client@^2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/imodelhub-client/-/imodelhub-client-2.19.3.tgz#3d50b4a2286613ee5025010621707cd9d50b3df3"
-  integrity sha512-08fQrOxpC5SWZ5+QHqGdMQ9Zn3OqihF4c6Y+yM/gAbjxBRP7HMM6pMhNzynUo1EcU+jACUrzA25x5pMl7tY7aQ==
+"@bentley/imodelhub-client@^2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/imodelhub-client/-/imodelhub-client-2.19.6.tgz#7cf68b4b96bd7704b71c0726946c2b945f0063ed"
+  integrity sha1-fPaLS5a9dwS3HAcmlGwrlF8AY+0=
   dependencies:
-    "@bentley/context-registry-client" "2.19.3"
+    "@bentley/context-registry-client" "2.19.6"
     deep-assign "^2.0.0"
     js-base64 "^2.4.5"
 
-"@bentley/imodeljs-common@2.19.3", "@bentley/imodeljs-common@^2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/imodeljs-common/-/imodeljs-common-2.19.3.tgz#e770066083289eb403cff4104b65e5be6e2ac9e1"
-  integrity sha512-RsX/EFUtWSXGf8ry8VhMKDsfCjZFvbUfq7PVSCikNYQiK/bxlHInbkisk4VqGB+lNMqzyStF2xtpEAxDeVlzqA==
+"@bentley/imodeljs-common@2.19.6", "@bentley/imodeljs-common@^2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/imodeljs-common/-/imodeljs-common-2.19.6.tgz#b1a446e0bb839326f9102820707dfb12cbbddd0a"
+  integrity sha1-saRG4LuDkyb5ECggcH37Esu93Qo=
   dependencies:
     "@ungap/url-search-params" "^0.1.2"
     flatbuffers "~1.12.0"
     semver "^5.5.0"
 
-"@bentley/imodeljs-frontend@^2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/imodeljs-frontend/-/imodeljs-frontend-2.19.3.tgz#9495be2ffad6fb9c8567c07e0671afab6690a351"
-  integrity sha512-WB/aGz0avxHJa482ACEcJ4y3ZImBsJYjSuHJGIYbtsmuqzVYA0ah/5D8fvSdzn7iZ8+DCTeu3ncxTQhm1DvZjw==
+"@bentley/imodeljs-frontend@^2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/imodeljs-frontend/-/imodeljs-frontend-2.19.6.tgz#5e6102a513f7de45366a75ccd912bf781193df3c"
+  integrity sha1-XmECpRP33kU2anXM2RK/eBGT3zw=
   dependencies:
-    "@bentley/context-registry-client" "2.19.3"
-    "@bentley/extension-client" "2.19.3"
-    "@bentley/reality-data-client" "2.19.3"
-    "@bentley/usage-logging-client" "2.19.3"
+    "@bentley/context-registry-client" "2.19.6"
+    "@bentley/extension-client" "2.19.6"
+    "@bentley/reality-data-client" "2.19.6"
+    "@bentley/usage-logging-client" "2.19.6"
     fuse.js "^3.3.0"
     js-base64 "^2.4.5"
     oidc-client "^1.9.1"
@@ -1309,31 +1309,31 @@
     wms-capabilities "0.4.0"
     xml-js "~1.6.11"
 
-"@bentley/imodeljs-i18n@^2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/imodeljs-i18n/-/imodeljs-i18n-2.19.3.tgz#098f99019c2ababb49d8dcc6ac2516dec588d166"
-  integrity sha512-TPkABcY/SKDZVhYXznVv2imnHP5tHqVIhSDzbmzZFO8CVw6VanZ8mx+4FWTaJ3/zvlnLp4W/hDQVP+b7ufcDfg==
+"@bentley/imodeljs-i18n@^2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/imodeljs-i18n/-/imodeljs-i18n-2.19.6.tgz#9fc788220df7c5d8766c8477f11e50725df3aa75"
+  integrity sha1-n8eIIg33xdh2bIR38R5Qcl3zqnU=
   dependencies:
     i18next "^10.2.2"
     i18next-browser-languagedetector "^2.1.0"
     i18next-xhr-backend "^2.0.1"
 
-"@bentley/imodeljs-markup@^2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/imodeljs-markup/-/imodeljs-markup-2.19.3.tgz#c57f45b2c826eb5a7d410abd46a4a58bb68a4584"
-  integrity sha512-hNGDOKskA0rJwa4jAj5YqbQHTaoegjEr3/HFavzhHMKLyDqjQXuWUuv7unFF8UVYvszgosip01z4xk57QuxsQg==
+"@bentley/imodeljs-markup@^2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/imodeljs-markup/-/imodeljs-markup-2.19.6.tgz#33b321d15457b08b679cdb06dd00b0e4e67fdae0"
+  integrity sha1-M7Mh0VRXsItnnNsG3QCw5OZ/2uA=
   dependencies:
     "@svgdotjs/svg.js" "3.0.13"
 
-"@bentley/imodeljs-quantity@^2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/imodeljs-quantity/-/imodeljs-quantity-2.19.3.tgz#b59e7fb94b94292083ea6a1c43d0bb76c577fb75"
-  integrity sha512-uz0CHPgeDGDSaKxaDvsslywld3KAH9LzqWWD46VLwX6Ir74xtqIcZjLsGrD3v1w6va31Qbjk/LUNbv8pxlnN1Q==
+"@bentley/imodeljs-quantity@^2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/imodeljs-quantity/-/imodeljs-quantity-2.19.6.tgz#7b5d497ab15173a1f8bb79343e4ad9f5cd063ef7"
+  integrity sha1-e11JerFRc6H4u3k0PkrZ9c0GPvc=
 
-"@bentley/itwin-client@2.19.3", "@bentley/itwin-client@^2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/itwin-client/-/itwin-client-2.19.3.tgz#599aec7529337959d6f0b4b8f4b277fbe312a6df"
-  integrity sha512-w/yTskLXznYucjY1Z7ANsYjxWD9/UGVCVW7+zG2LGHwAUsP0dHUADJ498VaJ059jZqGSvlYRsZDnsjYnnBAjdQ==
+"@bentley/itwin-client@2.19.6", "@bentley/itwin-client@^2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/itwin-client/-/itwin-client-2.19.6.tgz#cf71bd36f6c1ccf3d10fb1578cbe5db53c37fbb6"
+  integrity sha1-z3G9NvbBzPPRD7FXjL5dtTw3+7Y=
   dependencies:
     deep-assign "^2.0.0"
     js-base64 "^2.4.5"
@@ -1343,20 +1343,20 @@
     xmldom "^0.6.0"
     xpath "0.0.27"
 
-"@bentley/orbitgt-core@^2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/orbitgt-core/-/orbitgt-core-2.19.3.tgz#2bbe13f8b80c015fc3ab8094ce3c0a8f065fd484"
-  integrity sha512-nEmhXu0oG5tYe3n6CTtvp6ePTqUSxlYNxYvrHWyGbRJeYMTFmqfGIfQjHM+erQOonSvD090e4mzmGVz9ub08uw==
+"@bentley/orbitgt-core@^2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/orbitgt-core/-/orbitgt-core-2.19.6.tgz#fb6bc23ab65ad8608c7f30b8e666d0be5569d705"
+  integrity sha1-+2vCOrZa2GCMfzC45mbQvlVp1wU=
 
-"@bentley/presentation-common@^2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/presentation-common/-/presentation-common-2.19.3.tgz#8cfb791f9086af2711f74bcb9bd7d8e081f0d3ab"
-  integrity sha512-LKK1pkcV03uWePA3pKEx9yAmr+il7iong8fpNIwtI6hemyVgQnV2T4CA0ykwP+WYQ+yf9BG2qbGnIVlp7JNGZw==
+"@bentley/presentation-common@^2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/presentation-common/-/presentation-common-2.19.6.tgz#9246ac10864579f1ea8f019ea1504bff8e78abf4"
+  integrity sha1-kkasEIZFefHqjwGeoVBL/454q/Q=
 
-"@bentley/presentation-components@2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/presentation-components/-/presentation-components-2.19.3.tgz#930c3d742e930c2db5a242d67f79bea1dec2d29f"
-  integrity sha512-fky+0eTGwGemqXC65e4ZArLkcgFL/li7kDahukOuDeYvBMD3CdkB2NbTl3LukkfOXJ7NE4QGcnk8d371fuJNaw==
+"@bentley/presentation-components@2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/presentation-components/-/presentation-components-2.19.6.tgz#ed351d17c89107b75dcda1b5de679fb88a4b6cbe"
+  integrity sha1-7TUdF8iRB7ddzaG13mefuIpLbL4=
   dependencies:
     fast-deep-equal "^3.1.3"
     fast-sort "^3.0.2"
@@ -1364,15 +1364,15 @@
     micro-memoize "^4.0.9"
     rxjs "^6.6.2"
 
-"@bentley/presentation-frontend@^2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/presentation-frontend/-/presentation-frontend-2.19.3.tgz#17984b69b02450fe77d60c6dbbc619d21d05dab2"
-  integrity sha512-Dt5du2j5lXhRED9oL1xglsDKIkktvPm2Ao3SWcGEsO/XYutVg4tfsDiQ1iuFwut+lxSOXFQffaMCItXUvdoecQ==
+"@bentley/presentation-frontend@^2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/presentation-frontend/-/presentation-frontend-2.19.6.tgz#e5725ed9fbc71100486f64cf52ef03e02fffcba5"
+  integrity sha1-5XJe2fvHEQBIb2TPUu8D4C//y6U=
 
-"@bentley/product-settings-client@^2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/product-settings-client/-/product-settings-client-2.19.3.tgz#818cf5c9adc5aa71a55a61874031af3cdd9e8f1c"
-  integrity sha512-OmgCbtXXlNurCdV26EI4LmlpJHfwTpuikeemsrcGnbVMEgjSGdKEhNYzs2B7wLeQ357BTnt0lSS64R1TKTutTw==
+"@bentley/product-settings-client@^2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/product-settings-client/-/product-settings-client-2.19.6.tgz#e8c9895c583e48c3fb08f28da867f2c030aba07f"
+  integrity sha1-6MmJXFg+SMP7CPKNqGfywDCroH8=
 
 "@bentley/property-grid-react@^1.2.1":
   version "1.3.7"
@@ -1384,12 +1384,12 @@
     react-spring "^8.0.27"
     redux "^4.0.3"
 
-"@bentley/rbac-client@^2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/rbac-client/-/rbac-client-2.19.3.tgz#6722e16fa28fb8b7e24dc670914d3d56fe9c15f4"
-  integrity sha512-r4C/bXecgBxAtEoxqWKJMuA+6T1bNYt3C3bRqtGvOa4xl9p2JV/0HvvQTsDuYzJInOliXR9YIsSTDAfd86u/bQ==
+"@bentley/rbac-client@^2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/rbac-client/-/rbac-client-2.19.6.tgz#7d5cee428a17216c3e571442d61f5cef6754dce3"
+  integrity sha1-fVzuQooXIWw+VxRC1h9c72dU3OM=
   dependencies:
-    "@bentley/bentleyjs-core" "2.19.3"
+    "@bentley/bentleyjs-core" "2.19.6"
 
 "@bentley/react-scripts@^3.4.1":
   version "3.4.11"
@@ -1461,19 +1461,19 @@
   optionalDependencies:
     fsevents "2.1.2"
 
-"@bentley/reality-data-client@2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/reality-data-client/-/reality-data-client-2.19.3.tgz#f7a7ab14a47be8ebac921d9d4c76ac06f11416b3"
-  integrity sha512-SoN85CGZvJbC1gE1wdjmdCbwCqHCuz+siHrBrBaPnuq7YQH0GZr+Smxk3xS2Gnq75IAEeOUqM8oPIfuoKRSpIw==
+"@bentley/reality-data-client@2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/reality-data-client/-/reality-data-client-2.19.6.tgz#ef304de9c676a2c0b1093a329ffa22afadcd3c69"
+  integrity sha1-7zBN6cZ2osCxCToyn/oir63NPGk=
   dependencies:
-    "@bentley/bentleyjs-core" "2.19.3"
+    "@bentley/bentleyjs-core" "2.19.6"
 
-"@bentley/telemetry-client@2.19.3", "@bentley/telemetry-client@^2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/telemetry-client/-/telemetry-client-2.19.3.tgz#d000f5bec8e9ec52445372a3d9d0b75f9e808d41"
-  integrity sha512-GuGSaHntjssMZrG/qvMYTGvE1DcrWjBc2LDfu8RId/KBLhAx+lqNFWuOwZ6bQXBQIuDgWm0BQ2nJiRF5lBf0Qg==
+"@bentley/telemetry-client@2.19.6", "@bentley/telemetry-client@^2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/telemetry-client/-/telemetry-client-2.19.6.tgz#624f9e87a11e44a5452ade2854414b27620780ef"
+  integrity sha1-Yk+eh6EeRKVFKt4oVEFLJ2IHgO8=
   dependencies:
-    "@bentley/bentleyjs-core" "2.19.3"
+    "@bentley/bentleyjs-core" "2.19.6"
 
 "@bentley/tree-widget-react@^1.2.8":
   version "1.3.1"
@@ -1485,17 +1485,17 @@
     react-redux "^7.2.0"
     redux "^4.0.3"
 
-"@bentley/ui-abstract@^2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/ui-abstract/-/ui-abstract-2.19.3.tgz#ca4d289471888bf2e60fd0f0578e6897578ddbc3"
-  integrity sha512-0MW9rcDXhtdKVG8CIwqCnPE83u1mJXbXeAVklNk9GgRZwF4RbA4N2Lh7xOKtF5/0pZZMkIzgJbO9jGie1sh7YQ==
+"@bentley/ui-abstract@^2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/ui-abstract/-/ui-abstract-2.19.6.tgz#5072c156101bfa5a6d50b7d3c777f0df04330404"
+  integrity sha1-UHLBVhAb+lptULfTx3fw3wQzBAQ=
   dependencies:
     "@bentley/icons-generic-webfont" "^1.0.15"
 
-"@bentley/ui-components@^2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/ui-components/-/ui-components-2.19.3.tgz#e8c6c275c41795886e46119ae7eb0e91e4a1c3ca"
-  integrity sha512-7Ag3ynSX7bc1sRNqVIRW+wKJ2BXetR+HWuhQmpTK7eAOen1ZAVxeeuz/k75KAC4Cv0R9GObnYtRl/0WGtFyR0g==
+"@bentley/ui-components@^2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/ui-components/-/ui-components-2.19.6.tgz#3a126b67b63b50e4762ecfbbb67cf2e36483032f"
+  integrity sha1-OhJrZ7Y7UOR2Ls+7tnzy42SDAy8=
   dependencies:
     "@bentley/icons-generic-webfont" "^1.0.15"
     "@types/shortid" "~0.0.29"
@@ -1520,10 +1520,10 @@
     shortid "~2.2.15"
     ts-key-enum "^2.0.0"
 
-"@bentley/ui-core@^2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/ui-core/-/ui-core-2.19.3.tgz#5f9edee0a0398817330e59c20964963c3a842309"
-  integrity sha512-Fnl9A0D+7IRxEtyfq9uqRLUmnq49NUMBMDFcaKibkzzMx+U43i58p4K4gSisEi4ZcqAOPGaPxxi2XyEPLsbPUg==
+"@bentley/ui-core@^2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/ui-core/-/ui-core-2.19.6.tgz#3526d977bb0d8f2339ae2a34a2c8d3af168b1483"
+  integrity sha1-NSbZd7sNjyM5rio0osjTrxaLFIM=
   dependencies:
     "@bentley/icons-generic-webfont" "^1.0.15"
     classnames "^2.3.1"
@@ -1535,15 +1535,15 @@
     resize-observer-polyfill "1.5.1"
     svg-sprite-loader "4.2.1"
 
-"@bentley/ui-framework@^2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/ui-framework/-/ui-framework-2.19.3.tgz#f364da7fa526288aa17d9fd46eee3d58384b30ed"
-  integrity sha512-83Aj1DO/iIB9X55zuhR7mpJNyTGozBzxeVLtdBBmDQoqBwwDNU2PrC0iZgynd5fAC2seemqhGAHBzPwmrPcnWg==
+"@bentley/ui-framework@^2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/ui-framework/-/ui-framework-2.19.6.tgz#79a45bf74f1b2cfce803e002d1dd0869ac26d88a"
+  integrity sha1-eaRb908bLPzoA+AC0d0Iaawm2Io=
   dependencies:
-    "@bentley/context-registry-client" "2.19.3"
+    "@bentley/context-registry-client" "2.19.6"
     "@bentley/icons-generic" "^1.0.15"
     "@bentley/icons-generic-webfont" "^1.0.15"
-    "@bentley/presentation-components" "2.19.3"
+    "@bentley/presentation-components" "2.19.6"
     classnames "^2.3.1"
     immer "^9.0.1"
     lodash "^4.17.10"
@@ -1553,27 +1553,27 @@
     rxjs "^6.6.2"
     svg-sprite-loader "4.2.1"
 
-"@bentley/ui-ninezone@^2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/ui-ninezone/-/ui-ninezone-2.19.3.tgz#89f99e5062b9cf667e9e768a09a4849b59e6f135"
-  integrity sha512-EUaZMEzg97GmoA3ab3WXVEL1beIQpBDIJ4Ab6jhTHj9p/PHUh4SjMGTdIloBuWABl8uyqSbfzyFAvIo6Wr9Ieg==
+"@bentley/ui-ninezone@^2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/ui-ninezone/-/ui-ninezone-2.19.6.tgz#b8737233b9f50566f6550d4d95e59963377114d0"
+  integrity sha1-uHNyM7n1BWb2VQ1NleWZYzdxFNA=
   dependencies:
     classnames "^2.3.1"
     immer "^9.0.1"
     svg-sprite-loader "4.2.1"
     uuid "^7.0.3"
 
-"@bentley/usage-logging-client@2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/usage-logging-client/-/usage-logging-client-2.19.3.tgz#7df910a19c071f68e04dec1e97ac2e6b5aeba335"
-  integrity sha512-SyqNClaKTHm4L6h/+xDZPnmKZ7kDTZxmVB8Kkl5h8pYZIhWTFGO/QZrd90h7eMybeOJRDBwHTtfVDoF4FzX1ow==
+"@bentley/usage-logging-client@2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/usage-logging-client/-/usage-logging-client-2.19.6.tgz#5eb59a7186fd77ca473472137f4061be5416fbc6"
+  integrity sha1-XrWacYb9d8pHNHITf0BhvlQW+8Y=
   dependencies:
-    "@bentley/bentleyjs-core" "2.19.3"
+    "@bentley/bentleyjs-core" "2.19.6"
 
-"@bentley/webgl-compatibility@^2.19.3":
-  version "2.19.3"
-  resolved "https://registry.yarnpkg.com/@bentley/webgl-compatibility/-/webgl-compatibility-2.19.3.tgz#d5d6feca6f7cb4104995e97a82ce4c1d9fcb9fef"
-  integrity sha512-Cxjx5sHfcGpXwQuIM8WASKFOSJKlI78CxcJCP+Yvuw1fEfy90s9pYQBAkUjmuKu1y6jTRq3rsvNN/CS8GAs+qg==
+"@bentley/webgl-compatibility@^2.19.6":
+  version "2.19.6"
+  resolved "https://pkgs.dev.azure.com/bentleycs/_packaging/Packages/npm/registry/@bentley/webgl-compatibility/-/webgl-compatibility-2.19.6.tgz#5dc76a366afd9a8a2fef6a42c41343eb41a5d6ef"
+  integrity sha1-XcdqNmr9moov72pCxBND60Gl1u8=
 
 "@bentley/webpack-tools-core@^2.16.1":
   version "2.16.2"
